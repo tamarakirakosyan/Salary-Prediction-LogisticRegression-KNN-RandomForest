@@ -10,6 +10,8 @@ For prediction of salary I used three machine learning models: Logistic Regressi
 
 We get the following final resutls on test data:
 
+**Acuracy:** Accuracy on the testing data is 87% which means 87% of the data is correctly predicted.
+
 **Precision:** Precision on the testing data is 86% which means that the amount of false positives is low.
 
 **Recall:** Recal on the testing data is 87% which means that the model accurately predicts 87% percent of true positives.
